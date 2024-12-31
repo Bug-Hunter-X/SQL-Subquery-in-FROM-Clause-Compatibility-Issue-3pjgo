@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon SQL error related to subquery usage in the FROM clause. Some SQL databases support this syntax, while others do not.  The provided code illustrates the problematic query and a solution demonstrating better compatibility across multiple database systems.
